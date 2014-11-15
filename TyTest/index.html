@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script src="app.js"></script>
+</head>
+<body onload="initialize()">
+    <h1></h1>
+    <canvas id="canvas" style="z-index:-1"></canvas>
+    <button id="standButton" onclick="standButtonClicked()">Stand</button>
+    <button id="hitButton" onclick="hitButtonClicked()">Hit</button>
+    <button id="dealButton" style="visibility:hidden" onclick="dealButtonClicked()">Deal</button>
+    
+    <textarea id="debug"></textarea>
+    
+    <textarea id="stack"></textarea>
+    <textarea id="pot"></textarea>
+
+</body>
+</html>

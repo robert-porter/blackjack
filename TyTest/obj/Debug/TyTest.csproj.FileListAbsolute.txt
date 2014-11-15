@@ -1,0 +1,6 @@
+c:\users\robert\documents\visual studio 2013\Projects\TyTest\TyTest\bin\TyTest.dll.config
+c:\users\robert\documents\visual studio 2013\Projects\TyTest\TyTest\bin\TyTest.dll
+c:\users\robert\documents\visual studio 2013\Projects\TyTest\TyTest\bin\TyTest.pdb
+c:\users\robert\documents\visual studio 2013\Projects\TyTest\TyTest\obj\Debug\TyTest.dll
+c:\users\robert\documents\visual studio 2013\Projects\TyTest\TyTest\obj\Debug\TyTest.pdb
+C:\Users\Robert\documents\visual studio 2013\Projects\TyTest\TyTest\obj\Debug\TyTest.csprojResolveAssemblyReference.cache
