@@ -1,0 +1,3 @@
+# blackjack
+
+Blackjack in javascript.
